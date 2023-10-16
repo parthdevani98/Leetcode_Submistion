@@ -1,5 +1,3 @@
-#User function Template for python3
-
 class Solution:
     def reverseEqn(self, s):
         
@@ -29,9 +27,7 @@ class Solution:
    
 
 
-#{ 
- # Driver Code Starts
-#Initial Template for Python 3
+
 
 if __name__ == '__main__':
     t = int(input())
@@ -40,4 +36,3 @@ if __name__ == '__main__':
         ob = Solution()
         ans = ob.reverseEqn(s)
         print(ans)
-# } Driver Code Ends
