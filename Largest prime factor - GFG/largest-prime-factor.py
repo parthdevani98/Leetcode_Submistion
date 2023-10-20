@@ -1,4 +1,3 @@
-#User function Template for python3
 import math
 class Solution:
     def largestPrimeFactor (self, N):
@@ -25,9 +24,7 @@ class Solution:
 
 
 
-#{ 
- # Driver Code Starts
-#Initial Template for Python 3
+
 
 if __name__ == '__main__': 
     t = int (input ())
@@ -37,4 +34,3 @@ if __name__ == '__main__':
 
         ob = Solution()
         print(ob.largestPrimeFactor(N))
-# } Driver Code Ends
